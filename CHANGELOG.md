@@ -77,4 +77,4 @@ All agents follow token conservation protocol and communicate only through artif
 
 ---
 
-[1.0.0]: https://github.com/yourusername/gmpde/releases/tag/v1.0.0
+[1.0.0]: https://github.com/Srikanth777-11/gmpde/releases/tag/v1.0.0

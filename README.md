@@ -1,6 +1,6 @@
 # GMPDE — Governed Multi-Agent Project Development Engine
 
-[![CI](https://github.com/yourusername/gmpde/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/gmpde/actions/workflows/ci.yml)
+[![CI](https://github.com/Srikanth777-11/gmpde/actions/workflows/ci.yml/badge.svg)](https://github.com/Srikanth777-11/gmpde/actions/workflows/ci.yml)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -32,7 +32,7 @@ Every decision is logged. Every phase has a gate. Nothing advances without appro
 
 ### Install into your project
 ```bash
-git clone https://github.com/yourusername/gmpde.git
+git clone https://github.com/Srikanth777-11/gmpde.git
 cd gmpde
 bash install.sh
 ```
